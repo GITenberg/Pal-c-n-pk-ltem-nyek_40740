@@ -1,0 +1,26 @@
+_repo: Pal-c-n-pk-ltem-nyek_40740
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Pap, Gyula
+    birthdate: 1843
+    deathdate: 1931
+    gutenberg_agent_id: '40804'
+    url: http://www.gutenberg.org/2009/agents/40804
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40740'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk literature, Hungarian'
+- !lcc 'PH'
+title: Palóc népköltemények
+url: http://www.gutenberg.org/ebooks/40740
